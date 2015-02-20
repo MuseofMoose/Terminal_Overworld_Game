@@ -1,6 +1,6 @@
 # Terminal_Overworld_Game
 
-One of my first projects at wyncode. It's a very simple, array-based, repl overworld "game". There are objects in the world,
+One of my first projects at wyncode. It's a simple, array-based, repl overworld "game". There are objects in the world,
 but most of them don't do anything yet. "Collision detection" works perfectly fine and the world boundaries have
 been appropriately coded.
 
